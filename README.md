@@ -25,18 +25,6 @@ The application allows users to manage their personal contacts. Users can add, d
   - Delete a contact.
 - Ensure the frontend communicates with the backend API to perform these operations.
 
-### Additional Considerations
-
-- Security: Ensure proper handling of user inputs to prevent common vulnerabilities (e.g., SQL injection, XSS).
-- Code Quality: Follow coding best practices and organize your code for readability and maintainability.
-- Documentation: Provide a README file that includes instructions on how to set up and run the project, and a brief description of the project structure and any libraries or frameworks used.
-
-## Evaluation Criteria
-
-- Correctness: The application works as described without errors.
-- Code Quality: The code is clean, well-organized, and follows best practices.
-- Security: The application does not have glaring security vulnerabilities.
-- Completion: Strive to complete as much of the project as possible within the given time frame, focusing on core functionalities first.
 
 ## How to Run
 
